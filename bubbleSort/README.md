@@ -12,7 +12,7 @@ considering the following array as the array we want to order [n=5]:
 
 | 64 | 25 | 12 | 22 | 11 |
 
-- In the first external loop we will swap the first element until it reaches its ordered position:
+In the first external loop we will swap the first element until it reaches its ordered position:
 
 We will use i to external loop counter and j as the internal loop counter:
 
